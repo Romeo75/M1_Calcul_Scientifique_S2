@@ -12,4 +12,9 @@ UE Méthodes Numériques et Calculs Scientifiques - M1 S2 MU4PY209
 * Le TE2_Vector porte sur les résolutions des équations différentielles ordinaires du 2nd ordre.
 * Le TE2_Step porte sur l'analyse des erreurs faites sur la résolution des équations différentielles d'ordre 1 pour différentes méthodes.
 
+## TE3
+
+* Le TE3_Laplace porte sur la résolution de l'équation de Laplace
+* Le TE3_Diffusion porte sur la résolution de l'équation de Diffusion
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Romeo75/M1_Calcul_Scientifique_S2/HEAD)
